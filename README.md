@@ -1,6 +1,5 @@
 Below is the complete Markdown content for the README file, including the use of details and summary tags to hide answers until clicked. 
 
-```markdown
 # Ubuntu Linux Command Questions
 
 This repository contains a collection of 100 unique questions about Ubuntu Linux commands, organized by functional area. Each question has multiple-choice answers, and the correct answer is hidden by default but can be shown by clicking.
@@ -19,94 +18,105 @@ This repository contains a collection of 100 unique questions about Ubuntu Linux
 
 ## File Management
 
-<details>
 <summary>1. How do you list files in a directory?</summary>
-    - a) `ls`  
-    - b) `list`  
-    - c) `dir`  
-    - d) `files`  
-    - **Answer:** a) `ls`
-</details>
+- a) `ls`  
+- b) `list`  
+- c) `dir`  
+- d) `files` 
 
 <details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `ls`
+</details>
+
 <summary>2. Which command is used to copy files?</summary>
     - a) `cp`  
     - b) `copy`  
     - c) `mv`  
     - d) `cpy`  
-    - **Answer:** a) `cp`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `cp`
 </details>
 
-<details>
 <summary>3. How do you move files in Linux?</summary>
     - a) `mv`  
     - b) `move`  
     - c) `cp`  
     - d) `mve`  
-    - **Answer:** a) `mv`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `mv`
 </details>
 
-<details>
 <summary>4. What command removes files?</summary>
     - a) `rm`  
     - b) `del`  
     - c) `erase`  
     - d) `remove`  
-    - **Answer:** a) `rm`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `rm`
 </details>
 
-<details>
 <summary>5. How do you create a directory?</summary>
     - a) `mkdir`  
     - b) `makedir`  
     - c) `createdir`  
     - d) `dircreate`  
-    - **Answer:** a) `mkdir`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `mkdir`
 </details>
 
-<details>
 <summary>6. Which command is used to change directories?</summary>
     - a) `cd`  
     - b) `chdir`  
     - c) `changedir`  
     - d) `dir`  
-    - **Answer:** a) `cd`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `cd`
 </details>
 
-<details>
 <summary>7. How do you view the contents of a file?</summary>
-    - a) `cat`  
+    - a) `read`  
     - b) `view`  
     - c) `open`  
-    - d) `read`  
-    - **Answer:** a) `cat`
+    - d) `cat`  
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** d) `cat`
 </details>
 
-<details>
 <summary>8. Which command displays file type?</summary>
     - a) `file`  
     - b) `type`  
     - c) `ftype`  
     - d) `identify`  
-    - **Answer:** a) `file`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `file`
 </details>
 
-<details>
 <summary>9. How do you concatenate files?</summary>
     - a) `cat`  
     - b) `concat`  
     - c) `merge`  
     - d) `join`  
-    - **Answer:** a) `cat`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** a) `cat`
 </details>
 
-<details>
 <summary>10. What command lists file permissions?</summary>
-    - a) `ls -l`  
-    - b) `perm`  
+    - a) `l -l`  
+    - b) `ls -l`  
     - c) `permissions`  
     - d) `showperm`  
-    - **Answer:** a) `ls -l`
+<details>
+<summary>Click to show the answer</summary>
+**Answer:** b) `ls -l`
 </details>
 
 ## User and Group Management
