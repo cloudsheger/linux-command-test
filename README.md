@@ -1,5 +1,3 @@
-Below is the complete Markdown content for the README file, including the use of details and summary tags to hide answers until clicked. 
-
 # Ubuntu Linux Command Questions
 
 This repository contains a collection of 100 unique questions about Ubuntu Linux commands, organized by functional area. Each question has multiple-choice answers, and the correct answer is hidden by default but can be shown by clicking.
